@@ -10,3 +10,4 @@ User-agent: ClaudeBot
 Allow: /
 User-agent: PerplexityBot
 Allow: /
+Sitemap: https://qualiweld.it/sitemap.xml
